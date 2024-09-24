@@ -1,6 +1,6 @@
 # Laravel FFmpeg API Application
 
-[Russian](README.ru.md)
+[English](README.md)
 
 This application provides an API for performing various operations on video files using the FFmpeg library in the Laravel 10 environment. With its help, you can get information about the video, create images, thumbnails, trailers, resize video, and track the status of task execution.
 
